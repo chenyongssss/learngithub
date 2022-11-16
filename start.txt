@@ -5,4 +5,5 @@ git tracks changes of files
 test the github
 test the branch
 solve a conflict
+manage branch
 
